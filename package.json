@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://corund1976.github.io/goit-js-project",
+  "homepage": "https://KaterynaKolomiiets.github.io/event-booster-project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-project/"
+    "build": "parcel build src/*.html --public-url /event-booster-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corund1976/goit-js-project.git"
+    "url": "git+https://github.com/KaterynaKolomiiets/event-booster-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
